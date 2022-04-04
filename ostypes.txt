@@ -1,0 +1,8 @@
+Cisco-ttl=254
+FreeBSD	3.4, 4.0-ttl=255
+dLinux	2.0.x kernel-ttl=64
+MacOS/MacTCP	2.0.x-ttl=60
+VMS/Wollongong	1.1.1.1-ttl=128
+VMS/Wollongong	1.1.1.1-ttl=30
+Windows	NT 4.0 SP5=ttl-32
+Windows	10-ttl=128
